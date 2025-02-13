@@ -1,6 +1,6 @@
 # inf2102-PUC.Rio
 
-<img src="https://www-di.inf.puc-rio.br/~clarisse/templates/tplSERG/images/logoDI_preto.png" width="150px"></img>
+<img src="https://www.inf.puc-rio.br/wordpress/wp-content/themes/puc-di/assets/img/theme/logo.png" width="150px"></img>
 
 Este é o repositório de documentos públicos da disciplina de INF2102-Projeto Final de Programação, da Pós-Graduação do <a href="https://www.inf.puc-rio.br/" target="_New">Departamento de Informática da PUC-Rio.</a>
 
