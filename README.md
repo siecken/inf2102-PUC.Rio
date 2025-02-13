@@ -15,5 +15,7 @@ Os projetos são guiados e avaliados tecnicamente pelos orientadores e orientado
 <hr>
 Este texto está atualizado para a turma de 2025-1
 
+##Modalidade e Processo da Disciplina
+
 
 
